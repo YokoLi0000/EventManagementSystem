@@ -1,6 +1,7 @@
 # EventManagementSystem
 
 << Description >>
+
 The Event Management System aims to organize school events and provides a platform for students to register and participate in school activities in a much convenient way. It allows students to engage in different events, and enjoys meaningful and fruitful university life.
 
 << Execution >>
@@ -9,6 +10,7 @@ The Event Management System aims to organize school events and provides a platfo
 3. Double click the EventManagementSystem.bat to run the program
 
 << User Guideline >>
+
 Here are the commands for using the system:
 
 -------------------------------Create-------------------------------
